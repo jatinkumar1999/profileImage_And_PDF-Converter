@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026030105128",
+    "project_id": "profilescreen-44850",
+    "storage_bucket": "profilescreen-44850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026030105128:android:250a37bc5b3b523b4cfb1d",
+        "android_client_info": {
+          "package_name": "com.example.pdf_converter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026030105128-ei3c0hosnof1hke1v1hmb3jrvad8b5sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Fp3WR0kfBFKNkimkgQG2e1CsFivnTPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026030105128-ei3c0hosnof1hke1v1hmb3jrvad8b5sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
